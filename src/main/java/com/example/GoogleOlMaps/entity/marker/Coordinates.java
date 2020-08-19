@@ -44,7 +44,7 @@ public class Coordinates {
     public Coordinates setX(BigDecimal x) {
         this.x = x;
         return this;
-    }
+    }   
 
     public BigDecimal getY() {
         return y;
